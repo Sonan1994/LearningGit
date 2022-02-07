@@ -2,6 +2,6 @@ namespace LearningGit
 {
     public class Car
     {
-        private int help_new;
+        public string aaaa;
     }
 }
