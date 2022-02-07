@@ -2,7 +2,7 @@ namespace LearningGit
 {
     public class Car
     {
-        private int help;
+        public string aaaa;
         private float sss;
     }
 }
