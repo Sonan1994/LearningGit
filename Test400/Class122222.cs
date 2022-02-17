@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LearningGit.Test
 {
-    internal class Class1
+    internal class Class122222
     {
     }
 }
