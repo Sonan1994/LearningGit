@@ -1,0 +1,15 @@
+C:\Users\d.nenad.mil\GitTest\LearningGit\bin\Debug\net6.0\LearningGit.exe
+C:\Users\d.nenad.mil\GitTest\LearningGit\bin\Debug\net6.0\LearningGit.deps.json
+C:\Users\d.nenad.mil\GitTest\LearningGit\bin\Debug\net6.0\LearningGit.runtimeconfig.json
+C:\Users\d.nenad.mil\GitTest\LearningGit\bin\Debug\net6.0\LearningGit.dll
+C:\Users\d.nenad.mil\GitTest\LearningGit\bin\Debug\net6.0\ref\LearningGit.dll
+C:\Users\d.nenad.mil\GitTest\LearningGit\bin\Debug\net6.0\LearningGit.pdb
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\LearningGit.csproj.AssemblyReference.cache
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\LearningGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\LearningGit.AssemblyInfoInputs.cache
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\LearningGit.AssemblyInfo.cs
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\LearningGit.csproj.CoreCompileInputs.cache
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\LearningGit.dll
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\ref\LearningGit.dll
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\LearningGit.pdb
+C:\Users\d.nenad.mil\GitTest\LearningGit\obj\Debug\net6.0\LearningGit.genruntimeconfig.cache
